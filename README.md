@@ -1,1 +1,0 @@
-# residual-stress-aisi1045
